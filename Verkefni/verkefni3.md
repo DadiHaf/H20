@@ -19,6 +19,7 @@ Eftirfarandi þarf að nota við gerð logo-s:
 
 1. notaðu Inkscape til að hanna kassa fyrir laser prentun.
 1. finndu [viðauka](https://inkscape.org/gallery/=extension/) (e. extension) til að vinna með.
+    - [Leiðbeiningar fyrir viðauka](https://github.com/VESM1VS/H20/blob/master/Kennsluefni/inkscape_extension.md).
 1. merktu kassann með nafninu þínu og ef þú vilt einnig mynd (sjá tracing images and bitmap) eða logo-inu sem þú gerðir í lið A.
 1. útfærðu lokun.
 1. vistaðu hönnun með svg sniði.

@@ -1,13 +1,15 @@
 # Inkscape viðbætur (e. extension)
 
 - [Uppsetning](#uppsetning)
-- [Notkun](#notkun-á-lasercut-box)
+- [Notkun á Lasercut Box](#notkun-á-lasercut-box)
 
 ## Uppsetning
 
 Til að búa til kassan utan um Arduino tölvuna og brauðbretti ætlum við að nota viðbót við Inkscape forritið.
 
-Viðbótin heitir *LaserCutBox* sem sækja má [hér](https://github.com/Neon22/inkscape-LasercutBox). Smelltu á Code og svo Download ZIP.
+Viðbótin heitir *Lasercut Box* sem sækja má [hér](https://github.com/Neon22/inkscape-LasercutBox). Smelltu á Code og svo Download ZIP.
+
+Önnur viðbót sem hægt er að nota heitir *TabbedBox Maker* og má finna hana [hér](https://github.com/paulh-rnd/TabbedBoxMaker).
 
 ![Sækja viðbót](../Myndir/inkscape_SaekjaExtension.png)
 
@@ -55,4 +57,4 @@ Stillingar sem á að nota:
   - Kerf (amount lost to laser): 0.2
   - Gott að haka í *Display Line width = kerf*
 
-Myndband sem sýnir helstu atriði varðandi hönnun á kassa er [hér](https://youtu.be/8KpXsQQ8bqo).
+Myndband sem sýnir helstu atriði varðandi hönnun á kassa með *Lasercut Box* er [hér](https://youtu.be/8KpXsQQ8bqo).

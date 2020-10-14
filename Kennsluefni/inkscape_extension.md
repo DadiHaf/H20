@@ -11,7 +11,7 @@ Viðbótin heitir *LaserCutBox* sem sækja má [hér](https://github.com/Neon22/
 
 ![Sækja viðbót](../Myndir/inkscape_SaekjaExtension.png)
 
-Næst þarf að afþjappa zip skránni og taka skrárnar með ```.py``` og ```.inx``` endingunum og setja þær í ```extension``` möppuna fyrir Inkscape:
+Næst þarf að afþjappa zip skránni og taka skrárnar með ```.py``` og ```.inx``` endingunum og setja þær í ```extensions``` möppuna fyrir Inkscape:
 
 **Fyrir Windows:**
 
@@ -25,7 +25,7 @@ Einfaldast að afrita slóðina hér fyrir ofan og líma hana í Explorer glugga
 
 **Fyrir MacOS**
 
-Keyra skipunina hér fyrir neðan í Terminal til að opna Finder í ```extension``` möppunni:
+Keyra skipunina hér fyrir neðan í Terminal til að opna ```extensions``` möppuna í Finder:
 
 ```bash
 open /Applications/Inkscape.app/Contents/Resources/share/inkscape/extensions
@@ -39,7 +39,7 @@ Mismunandi en algeng staðsetning:
 ~/.config/inkscape/extensions
 ```
 
-Til að sjá hvar ```extension``` mappan er má alltaf fara í *Preferences -> System* í Inkscape. Þar er listi yfir allar möppur sem Inkscape notar.
+Til að sjá hvar ```extensions``` mappan er má alltaf fara í *Preferences -> System* í Inkscape. Þar er listi yfir allar möppur sem Inkscape notar.
 
 ## Notkun á Lasercut Box
 
